@@ -37,5 +37,5 @@ dependencies:
     - xmitgcm
     - pip
     - pip:
-    - git+https://github.com/ECCO-GROUP/ECCOv4-py.git
+        - git+https://github.com/ECCO-GROUP/ECCOv4-py.git
     
