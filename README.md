@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jk3652/rces-final-project-jkim/master)
+
 # EESCGR6901_2019 Final Project
 
 ## Joohee Kim
@@ -14,4 +16,6 @@
 2. Generate maps that show surface temperature changes averaged monthly.
 3. Compute the volumetric transport or streamfuction across a section in the North Atlantic, and generate figures that show monthly changes in the overturning in the North Atlantic.
 4. If time allows, analyze the correlation between overturning changes and sea surface temperature/salinity changes. 
+
+
 
