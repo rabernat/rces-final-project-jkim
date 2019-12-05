@@ -1,0 +1,18 @@
+name: rces-final-project-kim
+dependencies:
+  - xarray
+  - dask
+  - numpy
+  - matplotlib
+  - cartopy
+  - pandas
+  - sys
+  - intake
+  - pyresample
+  - xmitgcm
+  - xgcm
+  - netcdf4
+  - pip
+  - pip:
+    - git+https://github.com/ECCO-GROUP/ECCOv4-py.git
+    
