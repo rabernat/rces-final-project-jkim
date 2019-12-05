@@ -10,7 +10,8 @@
 
 **The planned analysis:** 
 
-1. Generate maps that show surface salinity and temperature changes averaged monthly.
-2. Generate meridional transects/cross sections that show salinities and temperatures of the surface, intermediate, and deep water masses, averaged monthly.
+1. Generate maps that show surface salinity changes averaged monthly.
+2. Generate maps that show surface temperature changes averaged monthly.
 3. Compute the volumetric transport or streamfuction across a section in the North Atlantic, and generate figures that show monthly changes in the overturning in the North Atlantic.
+4. If time allows, analyze the correlation between overturning changes and sea surface temperature/salinity changes. 
 
